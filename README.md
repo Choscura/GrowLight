@@ -1,6 +1,9 @@
 # GrowLight
 This repository is for a plant grow light and lighting control framework.
 
+DISCLAIMER
+This project involves exploring ideas that fundamentally involve danger. If you use this information, you take your own responsibility to handle that danger. You are encouraged to take your own safety precautions based on your own informed understanding of the dangers here, as this topic is not covered and no warranty is made or implied of the safety or efficacy of the methods here.
+
 DOCSPEC
 Different lights and controls for them exist.
 
